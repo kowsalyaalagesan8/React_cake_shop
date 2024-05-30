@@ -1,0 +1,43 @@
+
+
+.birimg1 {
+    max-width: 100%;
+    height: 390px;
+    border-radius: 9px;
+    transition: transform 0.3s ease;
+    background-color: aquamarine;
+}
+
+.birimg1:hover {
+    transform: scale(1.05);
+}
+
+.bircake_abt {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bircake_abt h3 {
+    font-size: 19px;
+    margin-bottom: 5px;
+
+
+}
+
+.bircake_abt p {
+    font-size: 19px;
+    margin-bottom: 10px;
+
+}
+
+.bircake_abt button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #3a2517;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+

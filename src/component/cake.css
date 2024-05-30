@@ -1,0 +1,56 @@
+.cakediv {
+    display: flex;
+    flex-direction: column;
+}
+
+.link3 {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    list-style: none;
+    padding: 0;
+    background-color: #bd8731;
+    border-radius: 30px;
+    padding: 10px; 
+    margin-top: 10px;
+}
+
+
+.link3 a:hover{
+color: rgb(3, 4, 4);}
+.link3 li {
+    margin-right: 20px;
+}
+
+.l3 {
+    padding: 10px 0;
+}
+
+.r2 {
+    text-decoration: none;
+    color: #fcfdfe;
+    font-weight: bold;
+    font-size: 18px; 
+}
+
+
+.banner1{
+    
+        background-image: url('../image/Cakebanner.png'); 
+        background-repeat: no-repeat;
+        background-size: cover; 
+        height: 230px ;
+        width: 100%;
+        margin-top: 15px;
+    
+
+}
+
+.abt1{
+    position: absolute;
+    left:920px;
+    top:100px;
+    color: white;
+    font-size: 50px;
+
+}

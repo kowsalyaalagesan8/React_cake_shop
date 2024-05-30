@@ -1,0 +1,62 @@
+
+
+.favimg1 {
+    max-width: 100%;
+    height: 330px;
+    border-radius: 9px;
+    transition: transform 0.3s ease;
+}
+
+.favimg1:hover {
+    transform: scale(1.05);
+}
+
+.cake_abt {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.cake_abt h3 {
+    font-size: 19px;
+    margin-bottom: 5px;
+
+
+}
+
+.cake_abt p {
+    font-size: 19px;
+    margin-bottom: 10px;
+
+}
+
+.order-button {
+    background-color: #59361f; 
+    color: #ffffff; 
+    border: none; 
+    padding: 10px 20px;
+    font-size: 16px; 
+    cursor: pointer;
+    border-radius: 5px; 
+    text-decoration: none; 
+    transition: background-color 0.3s; 
+    display: inline-block; 
+}
+
+.order-button:hover {
+    background-color: #bd8731;
+}
+
+.order-button:focus {
+    outline: none; 
+}
+
+.order-button a {
+    color: #ffffff; 
+    text-decoration: none; 
+    display: inline-block; 
+    width: 100%;
+    height: 100%; 
+    text-align: center; 
+}
+
+

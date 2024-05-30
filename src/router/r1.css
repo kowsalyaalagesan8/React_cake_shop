@@ -1,0 +1,35 @@
+
+.link2 {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 60px;
+    background-color: #bd8731;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-radius: 30px;
+}
+
+.l2 {
+    padding: 0 20px; 
+}
+
+.r1 {
+    text-decoration: none;
+    font-size: 18px;
+    color: #050303; 
+    font-weight: 500; 
+    transition: color 0.3s ease; 
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+}
+
+.r1:hover {
+    color: #f7f5f1;
+}
+
+.r1.active {
+    color: #ffc107; 
+}

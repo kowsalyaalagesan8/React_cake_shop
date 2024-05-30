@@ -1,0 +1,107 @@
+
+
+.bg1 {
+    background-image: url('../image/home_bg.jpg'); 
+    background-repeat: no-repeat;
+    background-size: 100% 100%; 
+    height: 80vh;
+    width: 100%;
+    margin-top: 15px;
+    object-fit: contain;
+}
+
+
+.text{
+color: azure;
+position: absolute;
+left:710px;
+top:200px;
+}
+
+.text1{
+    font-size: 50px;
+    font-family: "Lucida Handwriting";
+ 
+
+}
+.text2{
+    font-size: 30px;
+    margin-bottom: 20px;
+font-weight: bold;
+font-style: italic;
+
+    
+    
+}
+
+.text3{
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.text4{
+    font-size:20px ;
+    color:white;
+    font-weight: bold;
+    font-style: italic;
+}
+.h1 {
+text-align: center;
+
+
+}
+
+.gallery{
+    display: flex;
+    justify-content: center;
+ 
+    gap:40px;
+    background-color: black;
+    border:  5px solid black;
+    padding: 20px;
+    border: 3px solid black;
+
+
+}
+.img1{
+width: 400px;
+height: 300px;
+border-radius: 30px;
+
+}
+.card1{
+height: 500px;
+width: 400px;
+background-color: rgb(9, 9, 9);
+border:  5px solid white;
+border-radius: 30px;
+}
+
+.content{
+ padding: 5px;
+ text-align: justify;
+ color: white;
+}
+
+.card1:hover{
+transition: 1s;
+transform: translateY(-60px);
+
+}
+
+.p1{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.p2{
+    font-size: 20px;
+    font-style: italic;
+}
+
+.p3{
+    font-size: 20px;
+    font-style: italic;
+}
